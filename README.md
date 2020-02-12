@@ -100,7 +100,9 @@ My hobbies include me
 - Flying Drone's
 <br>
 - Bouldering, Rock Climbing 
+<br>
 -   Hiking (Scafal Pike, Mount Snowdonia)
+<br>
 - Reading Non-Fiction Books 
 
 
