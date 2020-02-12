@@ -97,16 +97,16 @@ As a person I am very curious to learn new technologies and meet great people th
 ## Hobbies
 
 My hobbies include me 
-- Flying Drone
+- Flying Drone's
 <br>
-Health: I enjoy Rock Climbing, Yoga, gym. 
-
-I have hiked up Scafal Pike and Mount Snowdonia. 
+- Bouldering, Rock Climbing 
+-   Hiking (Scafal Pike, Mount Snowdonia)
+- Reading Non-Fiction Books 
 
 
 
 
 ## Hobby Projects 
-**[Bouncing DVD](https://editor.p5js.org/SHUBV92/sketches/FF2LETO14)**<br>
+<!-- **[Bouncing DVD](https://editor.p5js.org/SHUBV92/sketches/FF2LETO14)**<br> -->
 **[New York Times API](https://editor.p5js.org/SHUBV92/sketches/L5Fs3NTDk)**<br>
 **[Recursion](https://editor.p5js.org/SHUBV92/sketches/gdCV3raI5)**<br>
