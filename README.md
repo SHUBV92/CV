@@ -97,13 +97,13 @@ As a person I am very curious to learn new technologies and meet great people th
 ## Hobbies
 
 My hobbies include me 
-<br>
+
 - Flying Drone's
-<br>
+
 - Bouldering, Rock Climbing 
-<br>
--   Hiking (Scafal Pike, Mount Snowdonia)
-<br>
+
+- Hiking (Scafal Pike, Mount Snowdonia)
+
 - Reading Non-Fiction Books 
 
 
