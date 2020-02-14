@@ -62,7 +62,7 @@ As a person I am very curious to learn new technologies and meet great people th
 
 #### University of Greenwich (Sep 2013 - July 2017)
                                   
-- Business Management (BA Hons) - Upper Second Class Honors 
+- Business Management (BA Hons) - Upper Second Class Honours 
 
 #### Any other qualifications
 
